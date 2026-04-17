@@ -90,10 +90,13 @@ La complejidad teorica del algoritmo LCS implementado con tabla completa es O(n*
 
 ## Capturas
 
-Las capturas solicitadas por la actividad deben ubicarse en la carpeta `capturas/`.
+### Ejecucion de pruebas (mvn test)
 
-- Captura de pruebas: `capturas/test.png`
-- Captura de benchmark: `capturas/benchmark.png`
+![Ejecucion de pruebas](capturas/test.png)
+
+### Salida de benchmark JMH
+
+![Salida benchmark](capturas/benchmark.png)
 
 ## Historial de commits relevantes
 
